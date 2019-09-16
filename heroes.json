@@ -1,0 +1,162 @@
+[
+    {
+        "id": "all_heroes",
+        "type": "all_heroes",
+        "portraitUrl": "null"
+    },
+    {
+        "id": "dva",
+        "type": "tank",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000007A.png"
+    },
+    {
+        "id": "orisa",
+        "type": "tank",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013E.png"
+    },
+    {
+        "id": "reinhardt",
+        "type": "tank",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000007.png"
+    },
+    {
+        "id": "roadhog",
+        "type": "tank",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000040.png"
+    },
+    {
+        "id": "sigma",
+        "type": "tank",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000023B.png"
+    },
+    {
+        "id": "winston",
+        "type": "tank",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000009.png"
+    },
+    {
+        "id": "wrecking_ball",
+        "type": "tank",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000001CA.png"
+    },
+    {
+        "id": "zarya",
+        "type": "tank",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000068.png"
+    },
+    {
+        "id": "ashe",
+        "type": "damage",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000200.png"
+    },
+    {
+        "id": "bastion",
+        "type": "damage",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000015.png"
+    },
+    {
+        "id": "doomfist",
+        "type": "damage",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012F.png"
+    },
+    {
+        "id": "genji",
+        "type": "damage",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000029.png"
+    },
+    {
+        "id": "hanzo",
+        "type": "damage",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000005.png"
+    },
+    {
+        "id": "junkrat",
+        "type": "damage",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000065.png"
+    },
+    {
+        "id": "mccree",
+        "type": "damage",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000042.png"
+    },
+    {
+        "id": "mei",
+        "type": "damage",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000000DD.png"
+    },
+    {
+        "id": "pharah",
+        "type": "damage",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000008.png"
+    },
+    {
+        "id": "reaper",
+        "type": "damage",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000002.png"
+    },
+    {
+        "id": "soldier_76",
+        "type": "damage",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000006E.png"
+    },
+    {
+        "id": "sombra",
+        "type": "damage",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012E.png"
+    },
+    {
+        "id": "symmetra",
+        "type": "damage",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000016.png"
+    },
+    {
+        "id": "torbjorn",
+        "type": "damage",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000006.png"
+    },
+    {
+        "id": "tracer",
+        "type": "damage",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000003.png"
+    },
+    {
+        "id": "widowmaker",
+        "type": "damage",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000000A.png"
+    },
+    {
+        "id": "ana",
+        "type": "support",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000013B.png"
+    },
+    {
+        "id": "baptiste",
+        "type": "support",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000221.png"
+    },
+    {
+        "id": "brigitte",
+        "type": "support",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000195.png"
+    },
+    {
+        "id": "lucio",
+        "type": "support",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000079.png"
+    },
+    {
+        "id": "mercy",
+        "type": "support",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000004.png"
+    },
+    {
+        "id": "moira",
+        "type": "support",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E00000000001A2.png"
+    },
+    {
+        "id": "zenyatta",
+        "type": "support",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000020.png"
+    }
+]
