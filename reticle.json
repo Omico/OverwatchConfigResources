@@ -1,0 +1,117 @@
+[
+    {
+        "id": "reticle",
+        "type": "category"
+    },
+    {
+        "id": "type",
+        "type": "selector_normal",
+        "unique": [
+            "default",
+            "circle",
+            "crosshairs",
+            "circle_and_crosshairs",
+            "dot"
+        ],
+        "defaultValue": "default"
+    },
+    {
+        "id": "advanced",
+        "type": "holder_collapsing",
+        "unique": [
+            {
+                "id": "show_accuracy",
+                "type": "switcher",
+                "defaultValue": true
+            },
+            {
+                "id": "color",
+                "type": "selector_color",
+                "unique": [
+                    "#c9ccd3",
+                    "#0acc14",
+                    "#0accd3",
+                    "#c90d14",
+                    "#c90dd3",
+                    "#c9e22f",
+                    "#0a0d14",
+                    "#c96114",
+                    "#c85e9d",
+                    "#1a4ce0",
+                    "#7916d3",
+                    "#c4c989",
+                    "#0b732a"
+                ],
+                "defaultValue": "#c9ccd3"
+            },
+            {
+                "id": "thickness",
+                "type": "integer",
+                "unique": {
+                    "min": 1,
+                    "max": 15
+                },
+                "defaultValue": 1
+            },
+            {
+                "id": "crosshair_length",
+                "type": "integer",
+                "unique": {
+                    "min": 0,
+                    "max": 50
+                },
+                "defaultValue": 25
+            },
+            {
+                "id": "center_gap",
+                "type": "integer",
+                "unique": {
+                    "min": 0,
+                    "max": 100
+                },
+                "defaultValue": 25
+            },
+            {
+                "id": "opacity",
+                "type": "integer",
+                "unique": {
+                    "min": 0,
+                    "max": 100
+                },
+                "defaultValue": 80
+            },
+            {
+                "id": "outline_opacity",
+                "type": "integer",
+                "unique": {
+                    "min": 0,
+                    "max": 100
+                },
+                "defaultValue": 50
+            },
+            {
+                "id": "dot_size",
+                "type": "integer",
+                "unique": {
+                    "min": 2,
+                    "max": 10
+                },
+                "defaultValue": 6
+            },
+            {
+                "id": "dot_opacity",
+                "type": "integer",
+                "unique": {
+                    "min": 0,
+                    "max": 100
+                },
+                "defaultValue": 100
+            },
+            {
+                "id": "scale_with_resolution",
+                "type": "switcher",
+                "defaultValue": true
+            }
+        ]
+    }
+]
