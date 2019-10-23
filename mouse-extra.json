@@ -1,0 +1,24 @@
+[
+    {
+        "id": "mouse_extra",
+        "type": "category"
+    },
+    {
+        "id": "dpi",
+        "type": "integer",
+        "unique": {
+            "min": 200,
+            "max": 12000
+        },
+        "defaultValue": 400
+    },
+    {
+        "id": "sensitivity_windows",
+        "type": "integer",
+        "unique": {
+            "min": 1,
+            "max": 11
+        },
+        "defaultValue": 6
+    }
+]
