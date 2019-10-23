@@ -1,0 +1,20 @@
+[
+    {
+        "id": "mouse",
+        "type": "category"
+    },
+    {
+        "id": "sensitivity",
+        "type": "integer",
+        "unique": {
+            "min": 1,
+            "max": 100
+        },
+        "defaultValue": 15
+    },
+    {
+        "id": "invert_look",
+        "type": "switcher",
+        "defaultValue": false
+    }
+]
