@@ -8,11 +8,24 @@
 
 ### 修复
 
+### 改动
+
 ### 注意事项
 
 ### 已知 BUG
 
 -->
+
+## 1.0.0 beta07
+
+### 改动
+
+使用新的方式实现多语言切换（LiveData）
+
+多项代码改动，优化 APP 整体性能
+
+<details>
+<summary>历史版本</summary>
 
 ## 1.0.0 beta06
 
@@ -31,9 +44,6 @@
 ### 已知 BUG
 
 暂无
-
-<details>
-<summary>历史版本</summary>
 
 ## 1.0.0 beta05
 
