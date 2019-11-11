@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="timestamp">1573341005369</integer>
+
+    <!-- Heroes start -->
+    <string name="all_heroes">All Heroes</string>
+    <string name="dva">D.VA</string>
+    <string name="orisa">Orisa</string>
+    <string name="reinhardt">Reinhardt</string>
+    <string name="roadhog">Roadhog</string>
+    <string name="sigma">Sigma</string>
+    <string name="winston">Winston</string>
+    <string name="wrecking_ball">Wrecking Ball</string>
+    <string name="zarya">Zarya</string>
+    <string name="ashe">Ashe</string>
+    <string name="bastion">Bastion</string>
+    <string name="doomfist">Doomfist</string>
+    <string name="genji">Genji</string>
+    <string name="hanzo">Hanzo</string>
+    <string name="junkrat">Junkrat</string>
+    <string name="mccree">Mccree</string>
+    <string name="mei">Mei</string>
+    <string name="pharah">Pharah</string>
+    <string name="reaper">Reaper</string>
+    <string name="soldier_76">Soldier: 76</string>
+    <string name="sombra">Sombra</string>
+    <string name="symmetra">Symmetra</string>
+    <string name="torbjorn">Torbjörn</string>
+    <string name="tracer">Tracer</string>
+    <string name="widowmaker">Widowmaker</string>
+    <string name="ana">Ana</string>
+    <string name="baptiste">Baptiste</string>
+    <string name="brigitte">Brigitte</string>
+    <string name="lucio">Lucio</string>
+    <string name="mercy">Mercy</string>
+    <string name="moira">Moira</string>
+    <string name="zenyatta">Zenyatta</string>
+    <!-- Heroes end -->
+
+    <!-- Mouse start -->
+    <string name="mouse">Mouse</string>
+    <string name="sensitivity">Sensitivity</string>
+    <string name="invert_look">Invert look</string>
+    <!-- Mouse end -->
+
+    <!-- Mouse extra start -->
+    <string name="mouse_extra">Mouse (extra)</string>
+    <string name="dpi">DPI</string>
+    <string name="sensitivity_windows">Windows mouse sensitivity</string>
+    <!-- Mouse extra end -->
+
+    <!-- Reticle start -->
+    <string name="reticle">Reticle</string>
+    <string name="type">Type</string>
+    <string name="default">Default</string>
+    <string name="circle">Circle</string>
+    <string name="crosshairs">Crosshairs</string>
+    <string name="circle_and_crosshairs">Circle and crosshairs</string>
+    <string name="dot">Dot</string>
+    <string name="advanced">Advanced</string>
+    <string name="show_accuracy">Show accuracy</string>
+    <string name="color">Color</string>
+    <string name="thickness">Thickness</string>
+    <string name="crosshair_length">Crosshair length</string>
+    <string name="center_gap">Center gap</string>
+    <string name="opacity">Opacity</string>
+    <string name="outline_opacity">Outline opacity</string>
+    <string name="dot_size">Dot size</string>
+    <string name="dot_opacity">Dot opacity</string>
+    <string name="scale_with_resolution">Scale with resolution</string>
+    <!-- Reticle end -->
+
+</resources>

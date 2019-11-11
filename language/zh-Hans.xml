@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="timestamp">1573341005369</integer>
+
+    <!-- Heroes start -->
+    <string name="all_heroes">全部英雄</string>
+    <string name="dva">D.VA</string>
+    <string name="orisa">奥丽莎</string>
+    <string name="reinhardt">莱因哈特</string>
+    <string name="roadhog">路霸</string>
+    <string name="sigma">西格玛</string>
+    <string name="winston">温斯顿</string>
+    <string name="wrecking_ball">破坏球</string>
+    <string name="zarya">查莉娅</string>
+    <string name="ashe">艾什</string>
+    <string name="bastion">堡垒</string>
+    <string name="doomfist">末日铁拳</string>
+    <string name="genji">源氏</string>
+    <string name="hanzo">半藏</string>
+    <string name="junkrat">狂鼠</string>
+    <string name="mccree">麦克雷</string>
+    <string name="mei">美</string>
+    <string name="pharah">法老之鹰</string>
+    <string name="reaper">死神</string>
+    <string name="soldier_76">士兵：76</string>
+    <string name="sombra">黑影</string>
+    <string name="symmetra">秩序之光</string>
+    <string name="torbjorn">托比昂</string>
+    <string name="tracer">猎空</string>
+    <string name="widowmaker">黑百合</string>
+    <string name="ana">安娜</string>
+    <string name="baptiste">巴蒂斯特</string>
+    <string name="brigitte">布丽吉塔</string>
+    <string name="lucio">卢西奥</string>
+    <string name="mercy">天使</string>
+    <string name="moira">莫伊拉</string>
+    <string name="zenyatta">禅雅塔</string>
+    <!-- Heroes end -->
+
+    <!-- Mouse start -->
+    <string name="mouse">鼠标</string>
+    <string name="sensitivity">灵敏度</string>
+    <string name="invert_look">反转视角</string>
+    <!-- Mouse end -->
+
+    <!-- Mouse extra start -->
+    <string name="mouse_extra">鼠标（额外）</string>
+    <string name="dpi">DPI</string>
+    <string name="sensitivity_windows">Windows 系统鼠标灵敏度</string>
+    <!-- Mouse extra end -->
+
+    <!-- Reticle start -->
+    <string name="reticle">准星</string>
+    <string name="type">类型</string>
+    <string name="default">默认</string>
+    <string name="circle">圆型</string>
+    <string name="crosshairs">十字型</string>
+    <string name="circle_and_crosshairs">圆形和十字形</string>
+    <string name="dot">点型</string>
+    <string name="advanced">高级</string>
+    <string name="show_accuracy">显示准星扩散</string>
+    <string name="color">颜色</string>
+    <string name="thickness">厚度</string>
+    <string name="crosshair_length">十字准星长度</string>
+    <string name="center_gap">中心间距</string>
+    <string name="opacity">模糊度</string>
+    <string name="outline_opacity">轮廓模糊度</string>
+    <string name="dot_size">瞄点体积</string>
+    <string name="dot_opacity">瞄点透明度</string>
+    <string name="scale_with_resolution">随分辨率缩放</string>
+    <!-- Reticle end -->
+
+</resources>
