@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <integer name="timestamp">1573341005369</integer>
+    <integer name="timestamp">1573949501881</integer>
 
     <!-- Heroes start -->
     <string name="all_heroes">All Heroes</string>
