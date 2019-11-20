@@ -5,19 +5,23 @@
     },
     {
         "id": "dpi",
-        "type": "integer",
+        "type": "number",
         "unique": {
             "min": 200,
-            "max": 12000
+            "max": 12000,
+            "hasDecimal": false,
+            "decimalPlaces": 0
         },
         "defaultValue": 400
     },
     {
         "id": "sensitivity_windows",
-        "type": "integer",
+        "type": "number",
         "unique": {
             "min": 1,
-            "max": 11
+            "max": 11,
+            "hasDecimal": false,
+            "decimalPlaces": 0
         },
         "defaultValue": 6
     }

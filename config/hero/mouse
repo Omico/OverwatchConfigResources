@@ -5,10 +5,12 @@
     },
     {
         "id": "sensitivity",
-        "type": "integer",
+        "type": "number_decimal",
         "unique": {
             "min": 1,
-            "max": 100
+            "max": 100,
+            "hasDecimal": true,
+            "decimalPlaces": 2
         },
         "defaultValue": 15
     },

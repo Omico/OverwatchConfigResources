@@ -46,64 +46,78 @@
             },
             {
                 "id": "thickness",
-                "type": "integer",
+                "type": "number",
                 "unique": {
                     "min": 1,
-                    "max": 15
+                    "max": 15,
+                    "hasDecimal": false,
+                    "decimalPlaces": 0
                 },
                 "defaultValue": 1
             },
             {
                 "id": "crosshair_length",
-                "type": "integer",
+                "type": "number",
                 "unique": {
                     "min": 0,
-                    "max": 50
+                    "max": 50,
+                    "hasDecimal": false,
+                    "decimalPlaces": 0
                 },
                 "defaultValue": 25
             },
             {
                 "id": "center_gap",
-                "type": "integer",
+                "type": "number",
                 "unique": {
                     "min": 0,
-                    "max": 100
+                    "max": 100,
+                    "hasDecimal": false,
+                    "decimalPlaces": 0
                 },
                 "defaultValue": 25
             },
             {
                 "id": "opacity",
-                "type": "integer",
+                "type": "number",
                 "unique": {
                     "min": 0,
-                    "max": 100
+                    "max": 100,
+                    "hasDecimal": false,
+                    "decimalPlaces": 0
                 },
                 "defaultValue": 80
             },
             {
                 "id": "outline_opacity",
-                "type": "integer",
+                "type": "number",
                 "unique": {
                     "min": 0,
-                    "max": 100
+                    "max": 100,
+                    "hasDecimal": false,
+                    "decimalPlaces": 0
                 },
                 "defaultValue": 50
             },
             {
                 "id": "dot_size",
-                "type": "integer",
+                "type": "number",
                 "unique": {
                     "min": 2,
-                    "max": 10
+                    "max": 10,
+                    "hasDecimal": false,
+                    "decimalPlaces": 0
                 },
                 "defaultValue": 6
             },
             {
                 "id": "dot_opacity",
-                "type": "integer",
+                "type": "number",
                 "unique": {
                     "min": 0,
-                    "max": 100
+                    "max": 100,
+                    "hasDecimal": false,
+                    "decimalPlaces": 0
                 },
                 "defaultValue": 100
             },
