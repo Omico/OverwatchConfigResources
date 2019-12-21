@@ -3,13 +3,13 @@
         "id": "en",
         "code": "en",
         "displayName": "English",
-        "timestamp": 1573949501881
+        "timestamp": 1576992879154
     },
     {
         "id": "zh-Hans",
         "code": "zh",
         "script": "Hans",
         "displayName": "简体中文",
-        "timestamp": 1573949501881
+        "timestamp": 1576992879154
     }
 ]

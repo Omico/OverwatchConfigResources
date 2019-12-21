@@ -1,0 +1,47 @@
+[
+    {
+        "id": "hero",
+        "type": "category"
+    },
+    {
+        "id": "allied_health_bars",
+        "type": "selector_normal",
+        "unique": [
+            "default",
+            "always",
+            "off"
+        ],
+        "defaultValue": "default"
+    },
+    {
+        "id": "show_friendly_outlines",
+        "type": "selector_normal",
+        "unique": [
+            "default",
+            "occluded",
+            "always"
+        ],
+        "defaultValue": "default"
+    },
+    {
+        "id": "toggle_zoom",
+        "type": "switcher",
+        "defaultValue": false
+    },
+    {
+        "id": "relative_aim_sensitivity_while_zoomed",
+        "type": "number_decimal",
+        "unique": {
+            "min": 0,
+            "max": 100,
+            "hasDecimal": true,
+            "decimalPlaces": 2
+        },
+        "defaultValue": 30
+    },
+    {
+        "id": "recoil_recovery_aim_compensation",
+        "type": "switcher",
+        "defaultValue": false
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "hero",
+        "type": "category"
+    },
+    {
+        "id": "allied_health_bars",
+        "type": "selector_normal",
+        "unique": [
+            "default",
+            "always",
+            "off"
+        ],
+        "defaultValue": "default"
+    },
+    {
+        "id": "show_friendly_outlines",
+        "type": "selector_normal",
+        "unique": [
+            "default",
+            "occluded",
+            "always"
+        ],
+        "defaultValue": "default"
+    },
+    {
+        "id": "toggle_barrier",
+        "type": "switcher",
+        "defaultValue": false
+    },
+    {
+        "id": "repair_pack_sensitivity",
+        "type": "number_decimal",
+        "unique": {
+            "min": 0,
+            "max": 100,
+            "hasDecimal": true,
+            "decimalPlaces": 2
+        },
+        "defaultValue": 100
+    }
+]

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <integer name="timestamp">1573949501881</integer>
+    <integer name="timestamp">1576992879154</integer>
 
     <!-- Heroes start -->
     <string name="all_heroes">全部英雄</string>
@@ -45,7 +45,7 @@
     <!-- Mouse end -->
 
     <!-- Mouse extra start -->
-    <string name="mouse_extra">鼠标（额外）</string>
+    <string name="mouse_extra">鼠标（游戏外）</string>
     <string name="dpi">DPI</string>
     <string name="sensitivity_windows">Windows 系统鼠标灵敏度</string>
     <!-- Mouse extra end -->
@@ -70,5 +70,41 @@
     <string name="dot_opacity">瞄点透明度</string>
     <string name="scale_with_resolution">随分辨率缩放</string>
     <!-- Reticle end -->
+
+    <!-- Hero start -->
+    <string name="hero">英雄</string>
+    <string name="allied_health_bars">队友生命条</string>
+    <string name="allow_backwards_wall_ride">允许反向滑墙</string>
+    <string name="always">总是</string>
+    <string name="automatic_reload">自动装填子弹</string>
+    <string name="automatically_climb_walls">自动爬墙</string>
+    <string name="beam_sensitivity">光束灵敏度</string>
+    <string name="grappling_hook_sensitivity">抓钩灵敏度</string>
+    <string name="guardian_angel_prefers_beam_target">守护天使优先锁定光束目标</string>
+    <string name="guardian_angel_sensitivity">守护天使灵敏度</string>
+    <string name="hack_sensitivity">黑客入侵灵敏度</string>
+    <string name="hold_boosters">按住推进器</string>
+    <string name="hold_to_crossfade">按住切歌</string>
+    <string name="holder_to_sprint">按住疾跑</string>
+    <string name="movement_relative_to_camera_during_barrier_free_look">屏障固定时移动跟随镜头</string>
+    <string name="nano_boost_sensitivity">纳米激素灵敏度</string>
+    <string name="occluded">遮蔽</string>
+    <string name="off">关闭</string>
+    <string name="orb_of_discord_sensitivity">“乱”灵敏度</string>
+    <string name="orb_of_harmony_sensitivity">“谐”灵敏度</string>
+    <string name="projected_barrier_sensitivity">投射屏障灵敏度</string>
+    <string name="recoil_recovery_aim_compensation">后坐力回复瞄准补偿</string>
+    <string name="relative_aim_sensitivity_while_zoomed">开镜瞄准灵敏度</string>
+    <string name="reload_recalls_barrier">重新装填键召回屏障</string>
+    <string name="repair_pack_sensitivity">恢复包灵敏度</string>
+    <string name="rip_tire_automatically_climb_walls">炸弹轮胎自动爬墙</string>
+    <string name="show_friendly_outlines">显示队友轮廓</string>
+    <string name="toggle_barrier">一键开启屏障</string>
+    <string name="toggle_beam_connection">一键开启光束连接</string>
+    <string name="toggle_defense_matrix">一键开启防御矩阵</string>
+    <string name="toggle_grappling_claw">工程抓钩</string>
+    <string name="toggle_guardian_angel">一键开启守护天使</string>
+    <string name="toggle_zoom">一键开镜</string>
+    <!-- Hero end -->
 
 </resources>

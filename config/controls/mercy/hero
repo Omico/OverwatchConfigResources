@@ -1,0 +1,63 @@
+[
+    {
+        "id": "hero",
+        "type": "category"
+    },
+    {
+        "id": "allied_health_bars",
+        "type": "selector_normal",
+        "unique": [
+            "default",
+            "always",
+            "off"
+        ],
+        "defaultValue": "default"
+    },
+    {
+        "id": "show_friendly_outlines",
+        "type": "selector_normal",
+        "unique": [
+            "default",
+            "occluded",
+            "always"
+        ],
+        "defaultValue": "default"
+    },
+    {
+        "id": "toggle_beam_connection",
+        "type": "switcher",
+        "defaultValue": false
+    },
+    {
+        "id": "guardian_angel_prefers_beam_target",
+        "type": "switcher",
+        "defaultValue": true
+    },
+    {
+        "id": "toggle_guardian_angel",
+        "type": "switcher",
+        "defaultValue": true
+    },
+    {
+        "id": "guardian_angel_sensitivity",
+        "type": "number",
+        "unique": {
+            "min": 10,
+            "max": 100,
+            "hasDecimal": false,
+            "decimalPlaces": 0
+        },
+        "defaultValue": 100
+    },
+    {
+        "id": "beam_sensitivity",
+        "type": "number",
+        "unique": {
+            "min": 10,
+            "max": 100,
+            "hasDecimal": false,
+            "decimalPlaces": 0
+        },
+        "defaultValue": 100
+    }
+]

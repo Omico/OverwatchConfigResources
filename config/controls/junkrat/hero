@@ -1,0 +1,31 @@
+[
+    {
+        "id": "hero",
+        "type": "category"
+    },
+    {
+        "id": "allied_health_bars",
+        "type": "selector_normal",
+        "unique": [
+            "default",
+            "always",
+            "off"
+        ],
+        "defaultValue": "default"
+    },
+    {
+        "id": "show_friendly_outlines",
+        "type": "selector_normal",
+        "unique": [
+            "default",
+            "occluded",
+            "always"
+        ],
+        "defaultValue": "default"
+    },
+    {
+        "id": "rip_tire_automatically_climb_walls",
+        "type": "switcher",
+        "defaultValue": false
+    }
+]

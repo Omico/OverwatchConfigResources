@@ -1,0 +1,37 @@
+[
+    {
+        "id": "hero",
+        "type": "category"
+    },
+    {
+        "id": "allied_health_bars",
+        "type": "selector_normal",
+        "unique": [
+            "default",
+            "always",
+            "off"
+        ],
+        "defaultValue": "default"
+    },
+    {
+        "id": "show_friendly_outlines",
+        "type": "selector_normal",
+        "unique": [
+            "default",
+            "occluded",
+            "always"
+        ],
+        "defaultValue": "default"
+    },
+    {
+        "id": "hack_sensitivity",
+        "type": "number",
+        "unique": {
+            "min": 10,
+            "max": 100,
+            "hasDecimal": false,
+            "decimalPlaces": 0
+        },
+        "defaultValue": 100
+    }
+]

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <integer name="timestamp">1573949501881</integer>
+    <integer name="timestamp">1576992879154</integer>
 
     <!-- Heroes start -->
     <string name="all_heroes">All Heroes</string>
@@ -45,7 +45,7 @@
     <!-- Mouse end -->
 
     <!-- Mouse extra start -->
-    <string name="mouse_extra">Mouse (extra)</string>
+    <string name="mouse_extra">Mouse (outside of the game)</string>
     <string name="dpi">DPI</string>
     <string name="sensitivity_windows">Windows mouse sensitivity</string>
     <!-- Mouse extra end -->
@@ -70,5 +70,41 @@
     <string name="dot_opacity">Dot opacity</string>
     <string name="scale_with_resolution">Scale with resolution</string>
     <!-- Reticle end -->
+
+    <!-- Hero start -->
+    <string name="hero">Hero</string>
+    <string name="allied_health_bars">Allied health bars</string>
+    <string name="allow_backwards_wall_ride">Allow backwards wall ride</string>
+    <string name="always">Always</string>
+    <string name="automatic_reload">Automatic reload</string>
+    <string name="automatically_climb_walls">Automatically climb walls</string>
+    <string name="beam_sensitivity">Beam sensitivity</string>
+    <string name="grappling_hook_sensitivity">Grappling hook sensitivity</string>
+    <string name="guardian_angel_prefers_beam_target">Guardian angel prefers beam target</string>
+    <string name="guardian_angel_sensitivity">Guardian angel sensitivity</string>
+    <string name="hack_sensitivity">Hack sensitivity</string>
+    <string name="hold_boosters">Hold boosters</string>
+    <string name="hold_to_crossfade">Hold to crossfade</string>
+    <string name="holder_to_sprint">Holder to sprint</string>
+    <string name="movement_relative_to_camera_during_barrier_free_look">Movement relative to camera during barrier free look</string>
+    <string name="nano_boost_sensitivity">Nano boost sensitivity</string>
+    <string name="occluded">Occluded</string>
+    <string name="off">Off</string>
+    <string name="orb_of_discord_sensitivity">Orb of discord sensitivity</string>
+    <string name="orb_of_harmony_sensitivity">Orb of harmony sensitivity</string>
+    <string name="projected_barrier_sensitivity">Projected barrier sensitivity</string>
+    <string name="recoil_recovery_aim_compensation">Recoil recovery aim compensation</string>
+    <string name="relative_aim_sensitivity_while_zoomed">Relative aim sensitivity while zoomed</string>
+    <string name="reload_recalls_barrier">Reload recalls barrier</string>
+    <string name="repair_pack_sensitivity">Repair pack sensitivity</string>
+    <string name="rip_tire_automatically_climb_walls">Rip tire automatically climb walls</string>
+    <string name="show_friendly_outlines">Show friendly outlines</string>
+    <string name="toggle_barrier">Toggle barrier</string>
+    <string name="toggle_beam_connection">Toggle beam connection</string>
+    <string name="toggle_defense_matrix">Toggle defense matrix</string>
+    <string name="toggle_grappling_claw">Toggle grappling claw</string>
+    <string name="toggle_guardian_angel">Toggle guardian angel</string>
+    <string name="toggle_zoom">Toggle zoom</string>
+    <!-- Hero end -->
 
 </resources>

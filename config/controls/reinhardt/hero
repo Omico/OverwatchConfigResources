@@ -1,0 +1,36 @@
+[
+    {
+        "id": "hero",
+        "type": "category"
+    },
+    {
+        "id": "allied_health_bars",
+        "type": "selector_normal",
+        "unique": [
+            "default",
+            "always",
+            "off"
+        ],
+        "defaultValue": "default"
+    },
+    {
+        "id": "show_friendly_outlines",
+        "type": "selector_normal",
+        "unique": [
+            "default",
+            "occluded",
+            "always"
+        ],
+        "defaultValue": "default"
+    },
+    {
+        "id": "toggle_barrier",
+        "type": "switcher",
+        "defaultValue": false
+    },
+    {
+        "id": "movement_relative_to_camera_during_barrier_free_look",
+        "type": "switcher",
+        "defaultValue": true
+    }
+]
