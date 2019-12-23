@@ -26,6 +26,6 @@
     {
         "id": "recoil_recovery_aim_compensation",
         "type": "switcher",
-        "defaultValue": false
+        "defaultValue": true
     }
 ]
