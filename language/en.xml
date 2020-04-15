@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <integer name="timestamp">1576992879154</integer>
+    <integer name="timestamp">1586927211642</integer>
 
     <!-- Heroes start -->
     <string name="all_heroes">All Heroes</string>
@@ -16,6 +16,7 @@
     <string name="ashe">Ashe</string>
     <string name="bastion">Bastion</string>
     <string name="doomfist">Doomfist</string>
+    <string name="echo">Echo</string>
     <string name="genji">Genji</string>
     <string name="hanzo">Hanzo</string>
     <string name="junkrat">Junkrat</string>
@@ -79,11 +80,14 @@
     <string name="automatic_reload">Automatic reload</string>
     <string name="automatically_climb_walls">Automatically climb walls</string>
     <string name="beam_sensitivity">Beam sensitivity</string>
+    <string name="duplicate_requires_target_confirmation">Duplicate requires target confirmation</string>
+    <string name="duplicate_sensitivity">Duplicate sensitivity</string>
     <string name="grappling_hook_sensitivity">Grappling hook sensitivity</string>
     <string name="guardian_angel_prefers_beam_target">Guardian angel prefers beam target</string>
     <string name="guardian_angel_sensitivity">Guardian angel sensitivity</string>
     <string name="hack_sensitivity">Hack sensitivity</string>
     <string name="hold_boosters">Hold boosters</string>
+    <string name="hold_for_flight">Hold for flight</string>
     <string name="hold_to_crossfade">Hold to crossfade</string>
     <string name="holder_to_sprint">Holder to sprint</string>
     <string name="movement_relative_to_camera_during_barrier_free_look">Movement relative to camera during barrier free look</string>
@@ -104,7 +108,6 @@
     <string name="toggle_defense_matrix">Toggle defense matrix</string>
     <string name="toggle_grappling_claw">Toggle grappling claw</string>
     <string name="toggle_guardian_angel">Toggle guardian angel</string>
-    <string name="toggle_zoom">Toggle zoom</string>
     <!-- Hero end -->
 
 </resources>
