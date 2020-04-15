@@ -60,6 +60,11 @@
         "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E000000000012F.png"
     },
     {
+        "id": "echo",
+        "type": "damage",
+        "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000206.png"
+    },
+    {
         "id": "genji",
         "type": "damage",
         "portraitUrl": "https://d1u1mce87gyfbn.cloudfront.net/game/heroes/small/0x02E0000000000029.png"

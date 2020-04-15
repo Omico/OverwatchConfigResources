@@ -1,130 +1,134 @@
 [
     {
         "id": "all-heroes",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     },
     {
         "id": "ana",
-        "timestamp": 1577066645643
+        "timestamp": 1586925544520
     },
     {
         "id": "ashe",
-        "timestamp": 1577066645643
+        "timestamp": 1586925544520
     },
     {
         "id": "baptiste",
-        "timestamp": 1577066645643
+        "timestamp": 1586925544520
     },
     {
         "id": "bastion",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     },
     {
         "id": "brigitte",
-        "timestamp": 1576998880656
-    },
-    {
-        "id": "doomfist",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     },
     {
         "id": "dva",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
+    },
+    {
+        "id": "doomfist",
+        "timestamp": 1586925544520
+    },
+    {
+        "id": "echo",
+        "timestamp": 1586925544520
     },
     {
         "id": "genji",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     },
     {
         "id": "hanzo",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     },
     {
         "id": "junkrat",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     },
     {
         "id": "lucio",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     },
     {
         "id": "mccree",
-        "timestamp": 1577066645643
+        "timestamp": 1586925544520
     },
     {
         "id": "mei",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     },
     {
         "id": "mercy",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     },
     {
         "id": "moira",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     },
     {
         "id": "orisa",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     },
     {
         "id": "pharah",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     },
     {
         "id": "reaper",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     },
     {
         "id": "reinhardt",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     },
     {
         "id": "roadhog",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     },
     {
         "id": "sigma",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     },
     {
         "id": "soldier-76",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     },
     {
         "id": "sombra",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     },
     {
         "id": "symmetra",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     },
     {
         "id": "torbjorn",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     },
     {
         "id": "tracer",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     },
     {
         "id": "widowmaker",
-        "timestamp": 1577066645643
+        "timestamp": 1586925544520
     },
     {
         "id": "winston",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     },
     {
         "id": "wrecking-ball",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     },
     {
         "id": "zarya",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     },
     {
         "id": "zenyatta",
-        "timestamp": 1576998880656
+        "timestamp": 1586925544520
     }
 ]
